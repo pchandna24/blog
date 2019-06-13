@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{65:function(t,o,n){"use strict";n.r(o),o.default={title:"What if I am not good at coding?",tags:["motivation","coding","how to","success"],spoiler:"What are the things you can try if you are not good at Coding.",getContent:function(){return n.e(8).then(n.bind(null,56))}}}}]);
+//# sourceMappingURL=12.d124eb26.chunk.js.map

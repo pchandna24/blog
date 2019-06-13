@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{63:function(t,n,i){"use strict";i.r(n),n.default={title:"blog.init()",tags:["first","post"],spoiler:"First blog post.",getContent:function(){return i.e(6).then(i.bind(null,52))}}}}]);
+//# sourceMappingURL=10.07c5c7ed.chunk.js.map
