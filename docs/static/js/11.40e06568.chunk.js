@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{64:function(t,e,n){"use strict";n.r(e),e.default={title:"How to get Started",tags:["get started","coding","how to","start"],spoiler:"How to get started into coding and creating an image of yourself.",getContent:function(){return n.e(7).then(n.bind(null,54))}}}}]);
-//# sourceMappingURL=11.40e06568.chunk.js.map
