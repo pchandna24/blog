@@ -1,9 +1,9 @@
 export default {
   // The blog's title as it appears in the layout header, and in the document
   // <title> tag.
-  title: 'Sunny Dhama | Blog',
+  title: 'Parth Chandna | Blog',
 
-  author: 'Sunny Dhama',
+  author: 'Parth Chandna',
   description:
     'A blog that is intended to share knowledge on this matrix known as WWW',
 

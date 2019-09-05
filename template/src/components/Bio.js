@@ -10,7 +10,7 @@ function Bio(props) {
     `}
     >
       <img
-        src="https://avatars0.githubusercontent.com/u/31814079?s=460&v=4"
+        src="https://avatars0.githubusercontent.com/u/42517354?s=460&v=4"
         alt="Me"
       />
       <p>
@@ -22,7 +22,7 @@ function Bio(props) {
         <a
           rel="noopener noreferrer"
           target="_blank"
-          href="https://github.com/blackwolf08"
+          href="https://github.com/pchandna24"
         >
           Github
         </a>
@@ -30,7 +30,7 @@ function Bio(props) {
         <a
           rel="noopener noreferrer"
           target="_blank"
-          href="https://linkedin.com/in/sunnydhama"
+          href="https://linkedin.com/in/parthchandna"
         >
           LinkedIn
         </a>
@@ -38,7 +38,7 @@ function Bio(props) {
         <a
           rel="noopener noreferrer"
           target="_blank"
-          href="https://sunnydhama.me"
+          href="https://parthchandna.tech"
         >
           My Website
         </a>
